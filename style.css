@@ -3,6 +3,26 @@ Folha de estilo do site one page
 @author Gaby Ramos
 */
 
+/* Importação (Google Fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Raleway:wght@100;300&display=swap');
+body{
+    font-family: 'Alkatra', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    }
+
+/* CSS Reset */
+*{
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+/* Layout */
+.Container{
+    margin: 0 auto;
+    background-color: #77ff00;
+}
 /* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -10,6 +30,10 @@ Folha de estilo do site one page
     body{
         background-color: aqua;
     }
+ /* Layout */
+.Container{
+    max-width: 540px;
+}
 }
 
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -17,6 +41,10 @@ Folha de estilo do site one page
     body{
         background-color: #ffff00;
     }
+/* Layout */
+.Container{
+    max-width: 720px;
+}
 }
 
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -24,6 +52,10 @@ Folha de estilo do site one page
     body{
         background-color: #f60;
     }
+/* Layout */
+.Container{
+    max-width: 960px;
+}
 }
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -31,4 +63,8 @@ Folha de estilo do site one page
     body{
         background-color: rgb(253, 250, 253);
     }
+ /* Layout */
+.Container{
+    max-width: 1140px;
+}
 }
