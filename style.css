@@ -29,6 +29,6 @@ Folha de estilo do site one page
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 1200px){
     body{
-        background-color: rgb(255, 0, 212);
+        background-color: rgb(253, 250, 253);
     }
 }
