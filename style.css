@@ -17,11 +17,10 @@ body{
     border:0;
     padding:0;
 }
-
 /* Layout */
 .Container{
     margin: 0 auto;
-    background-color: #77ff00;
+    background-color: #dcdcdc;
 }
 /* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
@@ -35,7 +34,6 @@ body{
     max-width: 540px;
 }
 }
-
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 768px){
     body{
@@ -46,7 +44,6 @@ body{
     max-width: 720px;
 }
 }
-
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 992px){
     body{
@@ -57,7 +54,6 @@ body{
     max-width: 960px;
 }
 }
-
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 1200px){
     body{
