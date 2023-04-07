@@ -22,6 +22,12 @@ body{
     margin: 0 auto;
     background-color: #dcdcdc;
 }
+/*Topo do site*/
+#topo{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    }
 /* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
