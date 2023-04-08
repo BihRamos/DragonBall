@@ -149,10 +149,12 @@ main h2{
 #onepage p{
     margin-bottom: 25px;
 }
+
 #video iframe{
     width: 340px;
     height: 191px;
-    border: 0;
+    border: 0px;
+    
 }
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -166,13 +168,13 @@ main h2{
 main h1, main h2{
     text-shadow: #000 0.05em 0.05em 0.05em;
 }
-
-}
 /*One page*/
 #video iframe{
     width: 560px;
     height: 315px;
 }
+}
+
 
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 768px){
