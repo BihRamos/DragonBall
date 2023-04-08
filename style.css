@@ -11,6 +11,8 @@ body{
     font-size: 1em;
 }
 
+
+
 /* CSS Reset */
 *{
     margin:0;
@@ -100,6 +102,24 @@ main h1{
 main h2{
     font-size: 1.4em;
     margin: 20px 0px 50px 0px;
+}
+/*Sobre*/
+#sobre{
+    padding: 50px 0px;
+    background: url(imagens/kai.jpg);
+    background-size: cover;
+    
+}
+
+#destaqueSobre{
+    display: none;
+}
+#textosobre{
+    color: #ffffff;
+    padding: 0px 10px;
+}
+#textosobre h2{
+    margin-bottom: 10px;
 }
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
