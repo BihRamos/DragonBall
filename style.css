@@ -28,6 +28,12 @@ body{
     display:flex;
     justify-content:space-between;
 }
+.Flex2{
+    display: flex;
+    align-items: center;
+    color:#000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .Botao{
     text-decoration: none;
     color: #fff;
@@ -90,6 +96,7 @@ main{
     height: 75vh;
     background:url(imagens/banner1.jpg);
     background-size:cover;
+    background-position: center;
     color: #ffffffef;
     display: flex;
     flex-direction: column;
@@ -108,6 +115,10 @@ main h2{
     padding: 50px 0px;
     background: url(imagens/kai.jpg);
     background-size: cover;
+    background-position: center;
+    text-shadow: #f8f8f8 0.08em 0.08em 0.08em;
+    font-size: 1.3em;
+   
     
 }
 
@@ -150,7 +161,7 @@ main h1{
     font-size: 5.5em;
 }
 main h2{
-    font-size: 2em;
+    font-size: 2.5em;
 }
 }
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -199,6 +210,18 @@ nav ul li a{
 }
 nav ul li a:hover{
     color: #c00000;
+}
+/*Sobre*/
+#sobre{
+    /*Efeito paralax*/
+    background-attachment: fixed;
+}
+#destaqueSobre{
+    display:inline;
+}
+#destaqueSobre img{
+    border-radius: 50%;
+    margin-right: 50px;
 }
 
 }
