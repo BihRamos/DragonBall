@@ -30,9 +30,10 @@ body{
 }
 .ContainerFlex2{
     display: flex;
-    align-items: center;
+    align-items:center;
     color:#000000;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px
 }
 .Flex3{
     display: flex;
@@ -47,6 +48,7 @@ body{
     padding: 10px 40px;
     border:2px solid #fff ;
     border-radius: 25px;
+  
 }
 /*Topo do site*/
 #topo{
@@ -126,7 +128,6 @@ main h2{
     text-shadow: #f8f8f8 0.08em 0.08em 0.08em;
     font-size: 1.3em;
    
-    
 }
 
 #destaqueSobre{
@@ -155,6 +156,32 @@ main h2{
     height: 191px;
     border: 0px;
     
+}
+/*PDF*/
+#wireframe{
+    padding: 50px 0px;
+    background: url(imagens/kai.jpg );
+    background-size: cover;
+    background-position: center;
+}
+#textoWire{
+    color: #000000;
+    padding: 0px 10px;
+   text-shadow: #fff9f9 0.08em 0.08em 0.08em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#textoWire h2{
+    margin-bottom: 10px;
+}
+#textoWire p{
+    margin-bottom: 40px;
+    
+}
+#textoWire span{
+    display: none;
+}
+#qrcode{
+    display: none;
 }
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -251,7 +278,7 @@ nav ul li a:hover{
 }
 #destaqueSobre img{
     border-radius: 50%;
-    margin-right: 50px;
+    margin-right: 80px;
     margin-left: 50px;
   
 }
@@ -260,5 +287,21 @@ nav ul li a:hover{
     flex-direction: row;
     align-items: center;
 }
+/*PDF*/
+#wireframe{
+    background-attachment: fixed;
+}
+#wireframe span{
+    display: inline;
+}
+#qrcode{
+    display: inline;
+}
+#qrcode img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+
 
 }
