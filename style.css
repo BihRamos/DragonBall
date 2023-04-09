@@ -33,11 +33,17 @@ body{
     align-items:center;
     color:#000000;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 50px
+    margin-left: 10px
 }
 .Flex3{
     display: flex;
     flex-direction: column;
+}
+.Flex4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
 }
 .Botao{
     text-decoration: none;
@@ -50,6 +56,33 @@ body{
     border-radius: 25px;
   
 }
+/*Cartões*/
+.Card {
+    margin-top: 25px;
+    width: 338px;
+    height: 520px; 
+    background-color: #e8e8e8;
+    border: 1px solid #a1a1a1;
+    border-radius: 25px;
+    text-align: center;
+
+}
+.Card img{
+    border-radius: 25px 25px 0px 0px;
+}
+.Card h3{
+    margin-top: 15px;
+}
+.Card p{
+    text-align: left;
+    color: #434343;
+    padding: 10px 20px 50px 30px;
+}
+.Card a{
+    padding: 10px 50px;
+    border: 0;
+}
+
 /*Topo do site*/
 #topo{
     position: fixed;
@@ -139,6 +172,7 @@ main h2{
 }
 #textosobre h2{
     margin-bottom: 10px;
+    
 }
 /*One page*/
 #onepage{
@@ -182,6 +216,14 @@ main h2{
 }
 #qrcode{
     display: none;
+}
+/*Conteúdo*/
+#conteudo{
+    padding: 50px 0px;
+}
+#conteudo h2{
+    margin-bottom: 25px;
+    text-align: center;
 }
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
