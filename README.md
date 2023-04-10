@@ -1,5 +1,4 @@
-# Dragon Ball One-Page! https://icons8.com.br/icon/37VT6ruj1sNX/github
-
+# Dragon Ball One-Page! 🐉
 ## Links Indicados
 ### Videos
 [Terra Nérdica](https://www.youtube.com/watch?v=orLo520quVM)
