@@ -1,6 +1,12 @@
 # Dragon Ball
-Dragon Ball é uma série de mangá e anime japonesa criada por Akira Toriyama. A história segue as aventuras do protagonista Son Goku em busca das esferas do dragão.
 ## Links Indicados
 ### Videos
 [Terra Nérdica](https://www.youtube.com/watch?v=orLo520quVM)
-
+[ShaDoW](https://www.youtube.com/watch?v=EzN5SW2QOWY)
+[RicardoJuniorExtras](https://www.youtube.com/watch?v=GJtb9xiC0Pk)
+[Vin Lee](https://www.youtube.com/watch?v=flYJj85aJsw)
+#### Tipografia
+[Unicode](https://www.unicode.org/charts/)
+[Google Fonts](https://fonts.google.com/)
+##### Imagens
+[Pinterest](https://br.pinterest.com/)
