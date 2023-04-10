@@ -1,4 +1,5 @@
-# Dragon Ball One-Page! https://cdn-icons-png.flaticon.com/512/1016/1016737.png
+# Dragon Ball One-Page! https://icons8.com.br/icon/37VT6ruj1sNX/github
+
 ## Links Indicados
 ### Videos
 [Terra Nérdica](https://www.youtube.com/watch?v=orLo520quVM)
