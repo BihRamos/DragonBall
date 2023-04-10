@@ -16,3 +16,7 @@
 
 ##### Imagens
 [Pinterest](https://br.pinterest.com/)
+###### Validação W3C
+[HTML](https://validator.w3.org/)
+
+[CSS](https://jigsaw.w3.org/css-validator/)
