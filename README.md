@@ -1,4 +1,4 @@
-# Dragon Ball
+# Dragon Ball One-Page
 ## Links Indicados
 ### Videos
 [Terra Nérdica](https://www.youtube.com/watch?v=orLo520quVM)
