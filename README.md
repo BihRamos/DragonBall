@@ -9,18 +9,18 @@
 
 [Vin Lee](https://www.youtube.com/watch?v=flYJj85aJsw)
 
-#### Tipografia
+### Tipografia
 [Unicode](https://www.unicode.org/charts/)
 
 [Google Fonts](https://fonts.google.com/)
 
-##### Imagens
+###Imagens
 [Pinterest](https://br.pinterest.com/)
 
-###### Validação W3C
+### Validação W3C
 [HTML](https://validator.w3.org/)
 
 [CSS](https://jigsaw.w3.org/css-validator/)
 
-###### PDF
+### PDF
 [Projeto HQ](https://projetohqonline.blogspot.com/2018/09/baixar-ou-ler-manga-dragon-ball-1984.html)
